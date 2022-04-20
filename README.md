@@ -1,6 +1,15 @@
-### Hi there 👋
+### Erick, Hi there 👋
 
-<!--
+### Um pouco sobre mim
+
+1. Silva
+1. Estudante de programação
+1. Quero ser...
+  1. Frontend
+  1. Backend
+  
+  ---
+  
 **ERICK-GABRIEL/ERICK-GABRIEL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +22,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
