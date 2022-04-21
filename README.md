@@ -30,15 +30,15 @@ I'm currently watching programming on the program ENTRA-21 by PROWAY, carried ou
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities or Studying🔥</h2>
 <br>
 <p align="center">
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
-  <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="Android" height="25" src="images/android.svg"></code>
+  <code><img title="Javascript" height="25" src="https://github.com/ERICK-GABRIEL/ERICK-GABRIEL/blob/main/images/logo-javascript-icon-1024.png"></code>
+  <code><img title="HTML5" height="25" src="https://github.com/ERICK-GABRIEL/ERICK-GABRIEL/blob/main/images/1216733.png"></code>
+  <code><img title="CSS" height="25" src="https://github.com/ERICK-GABRIEL/ERICK-GABRIEL/blob/main/images/logo-css-3-2048.png"></code>
+  <code><img title="Git" height="25" src="https://github.com/ERICK-GABRIEL/ERICK-GABRIEL/blob/main/images/Git-Icon-1788C.png"></code>
+  <code><img title="Visual Studio Code" height="25" src="https://github.com/ERICK-GABRIEL/ERICK-GABRIEL/blob/main/images/vscode.png"></code>
+  <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/ERICK-GABRIEL/ERICK-GABRIEL/blob/main/images/visualstudio.png"></code>
+  <code><img title="JQuery" height="25" src="https://github.com/ERICK-GABRIEL/ERICK-GABRIEL/blob/main/images/jquery-61c323b5e33214d6c3d442ed276eab68.png"></code>
+  <code><img title="Java" height="25" src="https://github.com/ERICK-GABRIEL/ERICK-GABRIEL/blob/main/images/javalogo.png"></code>
+  <code><img title="Android" height="25" src="https://github.com/ERICK-GABRIEL/ERICK-GABRIEL/blob/main/images/Android_robot.png"></code>
   <code><img title="GitHub" height="25" src="https://github.com/ERICK-GABRIEL/ERICK-GABRIEL/blob/main/images/30_github.c0a4dde53e.png"></code>
 </p>
 <hr>
