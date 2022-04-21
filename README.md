@@ -1,24 +1,21 @@
-### Erick, Hi there 👋
+## Hi, my name is ERICK  👋
 
-### Um pouco sobre mim
+<p align="esquerda">
+  <img
+    src="https://komarev.com/ghpvc/?username=ERICK-GABRIEL"
+    alt="ERICK-GABRIEL"
+  />
+</p>
 
-1. Silva
-1. Estudante de programação
-1. Quero ser...
-  1. Frontend
-  1. Backend
-  
-  ---
-  
-**ERICK-GABRIEL/ERICK-GABRIEL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nice, I'm from Brazil, I'm studying programming.
 
-Here are some ideas to get you started:
+As you may have guessed, I love lesser-known programming languages ​​and
+systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<centro>
+
+[![Instagram](https://img.shields.io/badge/-Instagram-ff0000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/erickgabrielcds/) 
+[![Gmail](https://img.shields.io/badge/-Email-green?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#sent?compose=GTvVlcSBnpzMFqQNHBZCzxTtmlshSTPscJRCqqsxtRZvvXwTClDQlzttZQsBPKDKQpsVKxZSlXvCP) 
+ 
+
+</center>
