@@ -8,8 +8,8 @@
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/erick-gabriel-carvalho-da-silva-441277238/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/erickgabrielcds/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+    <a href="https://www.linkedin.com/in/erick-gabriel-carvalho-da-silva-441277238/" title="LinkedIn Profile"><img width="22" src="https://github.com/ERICK-GABRIEL/ERICK-GABRIEL/blob/main/images/linkedin_logo_icon_189225.png"> LinkedIn</a></code>
+  <code><a href="https://www.instagram.com/erickgabrielcds/" title="Instagram Profile"><img width="22" src="https://github.com/ERICK-GABRIEL/ERICK-GABRIEL/blob/main/images/instagram-icone-icon-1.png"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
