@@ -15,7 +15,7 @@ systems.
 <centro>
 
 [![Instagram](https://img.shields.io/badge/-Instagram-ff0000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/erickgabrielcds/) 
-[![Gmail](https://img.shields.io/badge/-Email-green?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#sent?compose=GTvVlcSBnpzMFqQNHBZCzxTtmlshSTPscJRCqqsxtRZvvXwTClDQlzttZQsBPKDKQpsVKxZSlXvCP) 
+[![Gmail](https://img.shields.io/badge/-Email-green?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBpDhZVsdDhKMNHwwZHgGVSfcmXMDHJZNdqnlHgFHGtRpdJqKPcxRPWTtVwXvnpxSSjTwhV) 
  
 
 </center>
